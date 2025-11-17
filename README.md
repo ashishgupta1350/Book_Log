@@ -1,37 +1,55 @@
-# Book_Log (2025)
-A log of all the books I have been reading... 
+# Book Log (2025)
 
-Trading Books
+A refined log of all the books I have been reading in 2025.
 
-Unusual Billionairs - Saurabh (Very very good book for learning fundamentals )
-Fundamentals of Investing - Zerodha 
-Coffee Can Investing - Saurabh 
-Naked Statistics - Statistical Intuition book (Currently Reading)
+---
 
+## 📈 Trading & Investing Books
 
-### Literature 2025: 
-Kite Runner
-The Stationary Shop in Tehran
-The Silent Patient (Reading)
-Diary of a young Girl
-Ghoosebumps
-A Thousand Splendid Suns
-Silo Series - 
-Dust
-Wool
-Shift
+* **The Unusual Billionaires** — *Saurabh Mukherjea*
+  *Very good fundamentals book; strong lessons on management quality and capital allocation.*
 
+* **Fundamentals of Investing** — *Zerodha*
+  *Clear primers on compounding, asset allocation, and risk.*
 
+* **Coffee Can Investing** — *Saurabh Mukherjea*
+  *Framework-heavy; good for portfolio discipline.*
 
-Self Help:
-Leap Frog (Finished April 2025) 
-Think and Grow Rich (Not yet finished) 
-7 Habits of Highly successful people (Not yet finished)
-Hyperlearning (On Ipad - Not yet finished)
-Deep Work - Carl Newport (Finished - July 2025 ) 
+* **Naked Statistics** — *Charles Wheelan* *(Currently Reading)*
+  *Statistical intuition made simple and engaging.*
 
+---
 
+## 📚 Literature (2025)
 
-Books implemented:
-1) Deep work - Had 5 minute screen time for 1 month straight
-2) Trading books in career 
+* **Kite Runner** — *Khaled Hosseini*
+* **The Stationery Shop** — *Marjan Kamali*
+* **The Silent Patient** — *Alex Michaelides* *(Reading)*
+* **The Diary of a Young Girl** — *Anne Frank*
+* **Goosebumps** — *R.L. Stine*
+* **A Thousand Splendid Suns** — *Khaled Hosseini*
+
+### *Silo Series* — *Hugh Howey*
+
+* **Wool**
+* **Shift**
+* **Dust**
+
+---
+
+## 🌱 Self-Help & Productivity
+
+* **Leapfrog** — *Mukesh Sud & R. Gopalakrishnan* *(Finished — April 2025)*
+* **Think and Grow Rich** — *Napoleon Hill* *(Not yet finished)*
+* **The 7 Habits of Highly Effective People** — *Stephen Covey* *(Not yet finished)*
+* **Hyperlearning** — *Edward D. Hess* *(On iPad — Not yet finished)*
+* **Deep Work** — *Cal Newport* *(Finished — July 2025)*
+
+---
+
+## 🧪 Books Implemented
+
+1. **Deep Work** — Achieved *5 minutes of screen time* for an entire month.
+2. **Trading Books** — Applied concepts directly in trading career.
+
+---
