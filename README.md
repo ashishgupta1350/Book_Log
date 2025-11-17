@@ -2,6 +2,11 @@
 
 A refined log of all the books I have been reading in 2025.
 
+## 📖 Currently Reading
+
+* **Naked Statistics** — *Charles Wheelan*
+* **The Silent Patient** — *Alex Michaelides*
+
 ---
 
 ## 📈 Trading & Investing Books
