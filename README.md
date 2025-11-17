@@ -33,6 +33,7 @@ A refined log of all the books I have been reading in 2025.
 * **The Diary of a Young Girl** — *Anne Frank*
 * **Goosebumps** — *R.L. Stine*
 * **A Thousand Splendid Suns** — *Khaled Hosseini*
+* **The Song of Achilles** — *Madeline Miller*
 
 ### *Silo Series* — *Hugh Howey*
 
