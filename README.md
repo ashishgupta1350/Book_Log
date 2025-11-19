@@ -5,9 +5,9 @@ A refined log of all the books I have been reading in 2025.
 ## 📖 Currently Reading
 
 * **Naked Statistics** — *Charles Wheelan* - Covariance and Expectation done (Binomial Probability done)
-* **The Silent Patient** — *Alex Michaelides* - 320 Pages - Completed Today Morning - 19th Novemner 2025
+* **Module 5 - Options-Theory** — *Varsity By Zerodha* - Just started
 * **Options Volatility and Pricing** - *Sheldon Natenberg* - Chapter 2 Done 18th November 2025
-
+* **Mean Reversion Trading** — *?* - Just started
 ---
 
 ## 📈 Trading & Investing Books
@@ -30,7 +30,7 @@ A refined log of all the books I have been reading in 2025.
 
 * **Kite Runner** — *Khaled Hosseini*
 * **The Stationery Shop** — *Marjan Kamali*
-* **The Silent Patient** — *Alex Michaelides* *(Reading)*
+* **The Silent Patient** — *Alex Michaelides* 
 * **The Diary of a Young Girl** — *Anne Frank*
 * **Goosebumps** — *R.L. Stine*
 * **A Thousand Splendid Suns** — *Khaled Hosseini*
