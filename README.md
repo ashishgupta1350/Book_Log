@@ -5,7 +5,7 @@ A refined log of all the books I have been reading in 2025.
 ## 📖 Currently Reading
 
 * **Naked Statistics** — *Charles Wheelan* - Covariance and Expectation done (Binomial Probability done)
-* **The Silent Patient** — *Alex Michaelides* - 226 Pages done by 18th November 25
+* **The Silent Patient** — *Alex Michaelides* - 320 Pages - Completed Today Morning - 19th Novemner 2025
 * **Options Volatility and Pricing** - *Sheldon Natenberg* - Chapter 2 Done 18th November 2025
 
 ---
