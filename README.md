@@ -5,7 +5,7 @@ A refined log of all the books I have been reading in 2025.
 ## 📖 Currently Reading
 
 * **Naked Statistics** — *Charles Wheelan* - Covariance and Expectation done (Binomial Probability done)
-* **Module 5 - Options-Theory** — *Varsity By Zerodha* - Just started
+* **Module 5 - Options-Theory** — *Varsity By Zerodha* - 40 Pages Done - On Chapter 3 (Very Simple book to read)
 * **Options Volatility and Pricing** - *Sheldon Natenberg* - Chapter 2 Done 18th November 2025
 * **Mean Reversion Trading** — *?* - Just started
 ---
