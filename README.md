@@ -16,6 +16,7 @@ A refined log of all the books I have been reading in 2025.
 * "Expected Returns" – Ilmanen (Chapters on macro indicators)
 * “Dual Momentum” – Gary Antonacci
 * Some sections of Stan Weinstein’s “Secrets for Profiting” (Chapters on relative strength and stage analysis)
+* One up on wall street - Peter Lynch 
 ---
 
 ## 📈 Trading & Investing Books
