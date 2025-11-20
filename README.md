@@ -44,7 +44,8 @@ A refined log of all the books I have been reading in 2025.
 * **Goosebumps** — *R.L. Stine*
 * **A Thousand Splendid Suns** — *Khaled Hosseini*
 * **The Song of Achilles** — *Madeline Miller*
-* **A Man Called Ove** 
+* **A Man Called Ove**
+* **The Design of Everyday Things** - *Reading*
 
 ### *Silo Series* — *Hugh Howey*
 
