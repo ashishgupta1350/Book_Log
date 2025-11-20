@@ -70,5 +70,6 @@ A refined log of all the books I have been reading in 2025.
 
 1. **Deep Work** — Achieved *5 minutes of screen time* for an entire month.
 2. **Trading Books** — Applied concepts directly in trading career.
+3. **Intermident Fasting 101** - Fasting for the past 2.5 years
 
 ---
