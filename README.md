@@ -16,7 +16,8 @@ A refined log of all the books I have been reading in 2025.
 * "Expected Returns" – Ilmanen (Chapters on macro indicators)
 * “Dual Momentum” – Gary Antonacci
 * Some sections of Stan Weinstein’s “Secrets for Profiting” (Chapters on relative strength and stage analysis)
-* One up on wall street - Peter Lynch 
+* One up on wall street - Peter Lynch
+* https://bookanalysis.com/kurt-vonnegut/short-stories/ - Short Story Literature with Dark Humor themes and themes on Humans which give perspectives
 ---
 
 ## 📈 Trading & Investing Books
@@ -46,6 +47,7 @@ A refined log of all the books I have been reading in 2025.
 * **The Song of Achilles** — *Madeline Miller*
 * **A Man Called Ove**
 * **The Design of Everyday Things** - *Reading*
+* **Mans Search For Meaning* - *Vicktor Frankel*
 
 ### *Silo Series* — *Hugh Howey*
 
