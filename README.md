@@ -20,6 +20,9 @@ A refined log of all the books I have been reading in 2025.
 * https://bookanalysis.com/kurt-vonnegut/short-stories/ - Short Story Literature with Dark Humor themes and themes on Humans which give perspectives
 * “Diamonds in the Dust” - Read for Failture Case studies and fundamental breakdown of companies before going bankrupt  (Also helps learn about turnarounds)
 * Old ValuePikr Articles on failed companies and excellent companies to develope intuition
+* How Asia Works (Recommended by Intrinsic Compounding)
+* Bulls bears and other beasts
+* Stocks to Riches 
 ---
 
 ## 📈 Trading & Investing Books
