@@ -38,7 +38,10 @@ A refined log of all the books I have been reading in 2025.
 
 ## 📚 Business Reads (2025): 
 * **Groww IPO Report** - 20-30 Pages
-* 
+* Plastic Industry Report 2025
+* Chemicals Industry Report 2025
+
+  
 ## 📚 Literature (2025)
 
 * **Kite Runner** — *Khaled Hosseini*
