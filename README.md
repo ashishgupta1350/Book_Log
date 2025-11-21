@@ -18,6 +18,8 @@ A refined log of all the books I have been reading in 2025.
 * Some sections of Stan Weinstein’s “Secrets for Profiting” (Chapters on relative strength and stage analysis)
 * One up on wall street - Peter Lynch
 * https://bookanalysis.com/kurt-vonnegut/short-stories/ - Short Story Literature with Dark Humor themes and themes on Humans which give perspectives
+* “Diamonds in the Dust” - Read for Failture Case studies and fundamental breakdown of companies before going bankrupt  (Also helps learn about turnarounds)
+* Old ValuePikr Articles on failed companies and excellent companies to develope intuition
 ---
 
 ## 📈 Trading & Investing Books
