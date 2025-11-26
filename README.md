@@ -39,6 +39,8 @@ A refined log of all the books I have been reading in 2025.
 * **Naked Statistics** — *Charles Wheelan* *(Currently Reading)*
   *Statistical intuition made simple and engaging.*
 
+* **How to get rich (Without getting lucky)** - *Naval Ravikant*
+  *It's a business book with tips on cores of business.*
 ---
 
 ## 📚 Business Reads (2025): 
