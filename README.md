@@ -7,7 +7,7 @@ A refined log of all the books I have been reading in 2025.
 * **Naked Statistics** — *Charles Wheelan* - Covariance and Expectation done (Binomial Probability done) - Doing for Cash Flow Business
 * **Module 5 - Options-Theory** — *Varsity By Zerodha* - 40 Pages Done - On Chapter 3 (Very Simple book to read) - Reviewing Basics for Cash Flow Business 
 * **Options Volatility and Pricing** - *Sheldon Natenberg* - Chapter 2 Done 18th November 2025 - Review Options and Risk Theory - Upskilling
-* **One Up On Wall Street** — *Peter Lynch* - Started 20th November 2025 - 173 Pages Done (Chapter 8 Starting) - Reason - Long Term Investing Framework
+* **One Up On Wall Street** — *Peter Lynch* - Started 20th November 2025 - 245 Pages Done - Cyclicals stalwarts and others discussion
 * **Bulls, Bears and Other Beasts** - *Idk* - Started 22nd November 2025 - 100 Pages Down Reason - Learn the history of the Indian Stock Market
 ---
 
