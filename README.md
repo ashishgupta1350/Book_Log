@@ -4,7 +4,7 @@ A refined log of all the books I have been reading in 2025.
 
 ## 📖 Currently Reading
 
-* **One Up On Wall Street** — *Peter Lynch* - Started 20th November 2025 - 245 Pages Done - Cyclicals stalwarts and others discussion
+* **One Up On Wall Street** — *Peter Lynch* - Started 20th November 2025 - 265 Pages Done - Cyclicals stalwarts and others discussion
 * **Bulls, Bears and Other Beasts** - *Idk* - Started 22nd November 2025 - 100 Pages Down Reason - Learn the history of the Indian Stock Market
 ---
 
