@@ -11,10 +11,8 @@ A refined log of all the books I have been reading in 2025.
 
 ## 📈 Maybe I'll Read:
 
-* **Naked Statistics** — *Charles Wheelan* - Covariance and Expectation done (Binomial Probability done) - Doing for Cash Flow Business
-* **Module 5 - Options-Theory** — *Varsity By Zerodha* - 40 Pages Done - On Chapter 3 (Very Simple book to read) - Reviewing Basics for Cash Flow Business 
-* **Options Volatility and Pricing** - *Sheldon Natenberg* - Chapter 2 Done 18th November 2025 - Review Options and Risk Theory - Upskilling
-* 
+
+* **Value Investing and Behavioral Finance: Insights into stock market realities** - *Parag Parikh* 
 * **Intermarket Analysis** – *John Murphy*
 * "Expected Returns" – Ilmanen (Chapters on macro indicators)
 * “Dual Momentum” – Gary Antonacci
@@ -28,6 +26,12 @@ A refined log of all the books I have been reading in 2025.
 * Stocks to Riches 
 ---
 
+## Abandoned Cart:
+(3 Books because I wanna focus on long term investing right now) 
+* **Naked Statistics** — *Charles Wheelan* - Covariance and Expectation done (Binomial Probability done) - Doing for Cash Flow Business
+* **Module 5 - Options-Theory** — *Varsity By Zerodha* - 40 Pages Done - On Chapter 3 (Very Simple book to read) - Reviewing Basics for Cash Flow Business 
+* **Options Volatility and Pricing** - *Sheldon Natenberg* - Chapter 2 Done 18th November 2025 - Review Options and Risk Theory - Upskilling
+  
 ## 📈 Trading & Investing Books
 
 * **The Unusual Billionaires** — *Saurabh Mukherjea*
