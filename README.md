@@ -48,13 +48,15 @@ A refined log of all the books I have been reading in 2025.
 
 * **How to get rich (Without getting lucky)** - *Naval Ravikant*
   *It's a business book with tips on cores of business.*
+* **One Up On Wall Street** — *Peter Lynch*
+  *Started 20th November 2025 - Completed 16th December 2025*
 ---
 
 ## 📚 Business Reads (2025): 
 * **Groww IPO Report** - 20-30 Pages
 * Plastic Industry Report 2025
 * Chemicals Industry Report 2025
-* **One Up On Wall Street** — *Peter Lynch* - Started 20th November 2025 - Completed 16th December 2025
+
   
 ## 📚 Literature (2025)
 
