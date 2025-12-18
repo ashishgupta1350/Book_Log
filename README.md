@@ -5,7 +5,7 @@ A refined log of all the books I have been reading in 2025.
 ## 📖 Currently Reading
 
 * **Bulls, Bears and Other Beasts** - *Idk* - Started 22nd November 2025 - 165 Pages Down Reason - Learn the history of the Indian Stock Market
-* **20 Hours DTM** - *Idk* - Started 10th December 2025 - 9 Hours Done 
+* **20 Hours DTM** - *Idk* - Started 10th December 2025 - 14.5 Hours Done 
 ---
 
 ## 📈 Maybe I'll Read:
