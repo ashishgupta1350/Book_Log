@@ -32,7 +32,7 @@ A refined log of all the books I have been reading in 2025.
 * **Module 5 - Options-Theory** — *Varsity By Zerodha* - 40 Pages Done - On Chapter 3 (Very Simple book to read) - Reviewing Basics for Cash Flow Business 
 * **Options Volatility and Pricing** - *Sheldon Natenberg* - Chapter 2 Done 18th November 2025 - Review Options and Risk Theory - Upskilling
   
-## 📈 Trading & Investing Books
+## 📈 Trading & Investing Books (Read So Far)
 
 * **The Unusual Billionaires** — *Saurabh Mukherjea*
   *Very good fundamentals book; strong lessons on management quality and capital allocation.*
